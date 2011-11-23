@@ -6,6 +6,7 @@
 
     <GridView
         android:id="@+id/grid"
+        android:background="#ff333333"
         android:numColumns="6"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" >
